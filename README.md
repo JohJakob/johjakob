@@ -9,6 +9,6 @@ at [Plymouth College of Art](https://plymouthart.ac.uk).
 
 Some things that interest me are 🌍 web development, 📱 interface design,<br>
 🪄 3D graphics & animation, 🙌 community-driven projects,<br>
-and ✨ other awesome stuff.
+🌱 sustainability, and ✨ other awesome stuff.
 
 Feel free to say hi via [hi@johjakob.com](mailto:hi@johjakob.com), [Twitter](https://twitter.com/johjakob), or [Telegram](https://t.me/JohJakob).
