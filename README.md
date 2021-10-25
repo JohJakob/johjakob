@@ -7,6 +7,8 @@ Bauhaus city of Dessau in Germany.
 From October 2019 to February 2020, I studied Graphic Design<br>
 at [Plymouth College of Art](https://plymouthart.ac.uk).
 
+Currently, I’m working on my bachelor thesis.
+
 Some things that interest me are 🌍 web development, 📱 interface design,<br>
 🪄 3D graphics & animation, 🙌 community-driven projects,<br>
 🌱 sustainability, and ✨ other awesome stuff.
