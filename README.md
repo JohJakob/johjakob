@@ -1,8 +1,13 @@
-## Hey there, nice to meet you!
+Hi, I’m Johannes.
 
-I’m Johannes, a graphic and motion designer, currently studying<br>
-Integrated Design at [Anhalt University of Applied Sciences](https://design.hs-anhalt.de) in the<br>
-Bauhaus city of Dessau in Germany.
+I am a designer based in the Bauhaus city of Dessau in Germany.<br>
+My work focuses on graphic and motion design and I strive<br>
+to create both meaningful and delightful experiences for people.
+
+I’m part of the design team at [ottonova](https://ottonova.de/en).
+
+In 2022, I graduated from [Dessau Department of Design](https://hs-anhalt.de/hochschule-anhalt/design/uebersicht.html) with<br>
+a bachelor’s degree in Integrated Design.
 
 From October 2019 to February 2020, I studied Graphic Design<br>
 at [Plymouth College of Art](https://plymouthart.ac.uk).
