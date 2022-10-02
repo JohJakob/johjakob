@@ -10,7 +10,7 @@ In 2022, I graduated from [Dessau Department of Design](https://hs-anhalt.de/hoc
 a bachelor’s degree in Integrated Design.
 
 From October 2019 to February 2020, I studied Graphic Design<br>
-at [Plymouth College of Art](https://plymouthart.ac.uk).
+at [Arts University Plymouth](https://aup.ac.uk).
 
 Some things that interest me are 🌍 web development, 📱 interface design,<br>
 🪄 3D graphics & animation, 🙌 community-driven projects,<br>
