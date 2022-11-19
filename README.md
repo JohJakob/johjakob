@@ -1,7 +1,7 @@
 Hi, I’m Johannes.
 
 I am a designer based in the Bauhaus city of Dessau in Germany.<br>
-My work focuses on graphic and motion design and I strive<br>
+My work focuses on designing for the visual, auditory, and haptic senses and I strive<br>
 to create both meaningful and delightful experiences for people.
 
 I’m part of the design team at [ottonova](https://ottonova.de/en).
