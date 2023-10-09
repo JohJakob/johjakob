@@ -1,6 +1,6 @@
 Hi, I’m Johannes.
 
-I am a designer and artist based in the Bauhaus city of Dessau in Germany.<br>
+I am a designer and artist based in Leipzig, Germany.<br>
 My work focuses on designing for the visual, auditory, and haptic senses and I strive<br>
 to create both meaningful and delightful experiences for people.
 
