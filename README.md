@@ -16,4 +16,4 @@ Some things that interest me are 🌍 web development, 📱 interface design,<br
 🪄 3D graphics & animation, 🙌 community-driven projects,<br>
 🌱 sustainability, and ✨ other awesome stuff.
 
-Feel free to say hi via [hi@johjakob.com](mailto:hi@johjakob.com), [Twitter](https://twitter.com/johjakob), or [Mastodon](https://mastodon.social/@johjakob).
+Feel free to say hi via [hi@johjakob.com](mailto:hi@johjakob.com) or on [Mastodon](https://mastodon.social/@johjakob).
