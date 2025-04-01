@@ -4,7 +4,8 @@ I am a designer and artist based in Leipzig, Germany.<br>
 My work focuses on designing for the visual, auditory, and haptic senses and I strive<br>
 to create both meaningful and delightful experiences for people.
 
-I’m part of the design team at [ottonova](https://ottonova.de/en) and a lecturer at [Dessau Department of Design](https://hs-anhalt.de/hochschule-anhalt/design/uebersicht.html).
+I’m part of the design team at [ottonova](https://ottonova.de/en), a lecturer at [Dessau Department of Design](https://hs-anhalt.de/hochschule-anhalt/design/uebersicht.html),<br>
+and I’m making apps for [Kadomaru Shōkai](https://kadomaru.app).
 
 In 2024, I graduated from _Dessau Department of Design_ with<br>
 a master’s degree in Intermedia Design.
