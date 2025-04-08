@@ -1,4 +1,5 @@
-Hi, I’m Johannes.
+Hi, I’m Johannes.<br>
+はじめまして、ヨハネスと言います。
 
 I am a designer and artist based in Leipzig, Germany.<br>
 My work focuses on designing for the visual, auditory, and haptic senses and I strive<br>
@@ -16,5 +17,7 @@ at [Arts University Plymouth](https://aup.ac.uk).
 Some things that interest me are 🌍 web development, 📱 interface design,<br>
 🪄 3D graphics & animation, 🙌 community-driven projects,<br>
 🌱 sustainability, and ✨ other awesome stuff.
+
+日本語を勉強している。
 
 Feel free to say hi via [hi@johjakob.com](mailto:hi@johjakob.com) or on [Mastodon](https://mastodon.social/@johjakob).
